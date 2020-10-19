@@ -1,0 +1,7 @@
+# (uncomment to add a dependency)
+dependencies:
+ - name: main
+   version: 1
+   src: htmlwidgets/lib
+   script: main.js
+   stylesheet: main.css
